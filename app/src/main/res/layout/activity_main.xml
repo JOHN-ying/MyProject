@@ -1,0 +1,29 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+<!--    <com.example.etst_learn.CircleImageView
+
+        android:layout_width="160dp"
+        android:layout_height="240dp"
+        android:layout_margin="10dp"
+        android:src="@mipmap/ic_bg_meizi2"
+        app:type="circle" />
+
+    <com.example.etst_learn.CircleImageView
+        android:layout_width="160dp"
+        android:layout_height="280dp"
+        android:layout_margin="10dp"
+        android:src="@mipmap/ic_bg_meizi1"
+        app:Radius="30dp"
+        app:type="round" />-->
+<!--    <com.example.etst_learn.StripMeiZi
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>-->
+    <com.example.etst_learn.LoadTextView
+        android:id="@+id/view_lt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+</LinearLayout>
