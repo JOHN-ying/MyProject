@@ -14,6 +14,13 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <activity android:name=".ColorFilterActivity"/>
+        <activity android:name=".ColorFilterTwo"/>
+        <activity android:name=".PathEffectActivity"/>
+        <activity android:name=".ShaderActivity"/>
+        <activity android:name=".TypeFaceActivity"/>
+
     </application>
 
 </manifest>
